@@ -1,0 +1,2 @@
+lon,lat,weather_id,weather_main,weather_description,weather_icon,temp,feels_like,temp_min,temp_max,pressure,humidity,visibility,wind_speed,wind_deg,wind_gust,rain_1h,clouds_all,dt,sys_type,sys_id,sys_country,sys_sunrise,sys_sunset,timezone,id,name,cod
+27.9,43.2,804,Clouds,overcast clouds,04n,283.58,282.95,283.19,283.58,1015,87,10000,1.54,110,,,100,1708884050,1,6367,BG,1708836755,1708876256,7200,726048,Varna,200
